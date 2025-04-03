@@ -9,7 +9,7 @@
 
 	<title>Saymber</title>
 	
-	<link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="./assets/images/favicon.ico" type="image/x-icon">
 
 	<!-- fraimwork - css include -->
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
@@ -156,7 +156,7 @@
 		<div class="container" style="display: flex; justify-content: space-between; align-items: center;">
 			<div class="logo-area float-left">
 				<a href="index.php">
-					<img src="assets/images/logo.png" alt="Saymber logo" style="width: 80px">
+					<img src="assets/images/logo_transparent.png" alt="Saymber logo" style="width: 80px">
 
 				</a>
 			</div>
@@ -176,7 +176,7 @@
 				<div class="sidebar-header">
 					<a href="index.php">
 
-						<img src="assets/images/logo.png" alt="Saymber logo">
+						<img src="assets/images/logo_transparent.png" alt="Saymber logo">
 					</a>
 				</div>
 
@@ -186,8 +186,8 @@
 				<div class="menu-link-list main-pages-links">
 
 					<li style="list-style:none;">
-						<a href="index.php">
-							<span class="icon"><i class="fas fa-home"></i></span>
+						<a href="index.php" style="color: white">
+							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Home
 						</a>
 					</li>
@@ -199,8 +199,8 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#about-section">
-							<span class="icon"><i class="fas fa-home"></i></span>
+						<a href="#about-section" style="color: white">
+							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Services
 						</a>
 					</li>
@@ -211,8 +211,8 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#service-section">
-							<span class="icon"><i class="fas fa-home"></i></span>
+						<a href="#service-section" style="color: white">
+							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							About Us
 						</a>
 					</li>
@@ -223,8 +223,8 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#service-section why-us">
-							<span class="icon"><i class="fas fa-home"></i></span>
+						<a href="#service-section why-us" style="color: white">
+							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Why Us
 						</a>
 					</li>
@@ -235,8 +235,8 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#upcomming-event-carousel">
-							<span class="icon"><i class="fas fa-home"></i></span>
+						<a href="#upcomming-event-carousel" style="color: white">
+							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Gallery
 						</a>
 					</li>
@@ -247,8 +247,8 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#testimonial5-section">
-							<span class="icon"><i class="fas fa-home"></i></span>
+						<a href="#testimonial5-section" style="color: white">
+							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Testimonials
 						</a>
 					</li>
@@ -259,8 +259,8 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#contact-section">
-							<span class="icon"><i class="fas fa-home"></i></span>
+						<a href="#contact-section" style="color: white">
+							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Contact
 						</a>
 					</li>
