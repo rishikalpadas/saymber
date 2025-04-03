@@ -86,7 +86,7 @@
 					<div class="col-lg-2">
 						<div class="site-logo-wrapper">
 							<a href="index.php" class="logo">
-								<img src="assets/images/logo.png" alt="Saymber Logo">
+								<img src="assets/images/logo_transparent.png" alt="Saymber Logo">
 							</a>
 						</div>
 					</div>

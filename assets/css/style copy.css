@@ -896,11 +896,10 @@ button {
               z-index: -1;
               border-radius: 3px;
               position: absolute;
-              /* background: -webkit-gradient(linear, left top, right bottom, from(#ff3e00), to(#ffbe30));
+              background: -webkit-gradient(linear, left top, right bottom, from(#ff3e00), to(#ffbe30));
               background: -webkit-linear-gradient(top left, #ff3e00, #ffbe30);
               background: -o-linear-gradient(top left, #ff3e00, #ffbe30);
-              background: linear-gradient(to bottom right, #ff3e00, #ffbe30); */
-              background-color: #FB0102;
+              background: linear-gradient(to bottom right, #ff3e00, #ffbe30);
               -webkit-transition: all 0.3s ease-in-out;
               -o-transition: all 0.3s ease-in-out;
               transition: all 0.3s ease-in-out; }
@@ -1011,7 +1010,7 @@ button {
             background-color: #ffbe30; }
 
 .sticky-header-section.stuck {
-  background-color: #BB93AF;
+  background-color: #333333;
   -webkit-box-shadow: 0 2px 6px 1px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 6px 1px rgba(0, 0, 0, 0.1); }
   .sticky-header-section.stuck .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu {
@@ -1797,7 +1796,7 @@ button {
     font-weight: 900; }
 
 .footer-section2 .footer-top {
-  background-color: #BB93AF; }
+  background-color: #333333; }
   .footer-section2 .footer-top .about-wrapper .basic-info ul li {
     margin-bottom: 5px;
     color: #ffffff;
@@ -1820,7 +1819,7 @@ button {
     .footer-section2 .footer-top .about-wrapper .social-links ul li:last-child {
       margin-right: 0px; }
     .footer-section2 .footer-top .about-wrapper .social-links ul li a {
-      color: #fff;
+      color: #878787;
       font-size: 18px; }
       .footer-section2 .footer-top .about-wrapper .social-links ul li a:hover {
         color: #ffbe30; }
@@ -1833,7 +1832,7 @@ button {
       padding: 8px 0;
       padding-left: 30px;
       position: relative;
-      color: #fff;
+      color: #878787;
       border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
       .footer-section2 .footer-top .usefullinks-wrapper ul li a:before {
         top: 50%;
@@ -1841,7 +1840,7 @@ button {
         content: '\f0a9';
         font-weight: 900;
         position: absolute;
-        color: #fff;
+        color: #878787;
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
@@ -1885,12 +1884,10 @@ button {
         opacity: 1; }
   .footer-section2 .footer-top .instagram-wrapper .followus-link {
     font-weight: 700;
-    color: #fff;
+    color: #878787;
     font-size: 16px; }
     .footer-section2 .footer-top .instagram-wrapper .followus-link a {
-      color: #f9f9f9; }
-    .footer-section2 .footer-top .instagram-wrapper .followus-link a:hover {
-      color: #F90103; }
+      color: #ffbe30; }
 
 /* footer section 2 - end
 ==================================================================================================== */
@@ -2678,7 +2675,7 @@ button {
     font-size: 18px; }
   .testimonial5-section .item .client-info .client-name {
     font-weight: 800;
-    color: #F90103;
+    color: #ffbe30;
     font-size: 24px; }
 
 .testimonial5-section .owl-theme .owl-nav .owl-next,
@@ -6611,7 +6608,7 @@ button {
           font-weight: 900; }
       .service-section .service-wrapper .service-item .service-content .service-title .service-price {
         font-weight: 900;
-        color: #F90103; }
+        color: #ffbe30; }
     .service-section .service-wrapper .service-item .service-content .service-type-list ul {
       width: 100%;
       margin: 0px;

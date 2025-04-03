@@ -14,7 +14,7 @@
 								<!-- site-logo-wrapper - start -->
 								<div class="site-logo-wrapper mb-30">
 									<a href="index.php" class="logo p-3">
-										<img src="assets/images/logo.png" alt="Saymber Logo" style="height: 200px; width: auto;">
+										<img src="assets/images/logo_transparent.png" alt="Saymber Logo" style="height: 200px; width: auto;">
 
 									</a>
 								</div>
@@ -142,9 +142,11 @@
 									</li>
 
 								</ul>
-								<!-- <h4 class="followus-link">
-									Follow Our Instagram <a href="#!">#Harmoni</a>
-								</h4> -->
+								<h4 class="followus-link">
+									Powered by <a href="https://crtedge.com/" target="_blank">Createdge</a>
+									
+								</h4>
+								
 							</div>
 						</div>
 						<!-- instagram-wrapper - end -->

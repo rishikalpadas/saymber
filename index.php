@@ -78,7 +78,7 @@
 		<div>
 			<div class="section-title  mb-30 mt-5">
 				<center><small class="sub-title">we are saymber</small></center>
-				<hr style="height:2px;width:20%;background-color:#ffbe30">
+				<hr style="height:2px;width:20%;background-color:#F90103">
 				</hr>
 				<h2 class="big-title" style="text-align:center;">Our <strong>Services</strong></h2>
 				<!-- <p class="black-color mb-50">
@@ -311,7 +311,7 @@
 		================================================== -->
 		<div class="service-title mb-30 mt-30">
 			<h2 class="title-text" style="text-align:center">Why <strong>Saymber?</strong></h2>
-			<hr style="height:2px;width:20%;background-color:#ffbe30">
+			<hr style="height:2px;width:20%;background-color:#F90103">
 			</hr>
 		</div>
 		<div id="absolute-sponsor-section" class="absolute-sponsor-section sr-fade1 clearfix">
@@ -410,18 +410,11 @@
 				</div>
 			</div>
 			<!-- item - end -->
-			<!-- item - start -->
+
+			<!-- item - start -->			
 			<div class="item">
 				<div class="event-item">
-					<a class="event-image" href="assets/images/gallery_slider/gallery6.jpg" data-lightbox="gallery">
-						<img src="assets/images/gallery_slider/gallery6.jpg" alt="">
-					</a>
-				</div>
-			</div>
-			<!-- item - end -->
-			<div class="item">
-				<div class="event-item">
-					<a class="event-image" href="assets/images/gallery_slider/gallery6.jpg" data-lightbox="gallery">
+					<a class="event-image" href="assets/images/gallery_slider/gallery7.jpg" data-lightbox="gallery">
 						<img src="assets/images/gallery_slider/gallery7.jpg" alt="">
 					</a>
 				</div>
@@ -429,7 +422,7 @@
 			<!-- item - end -->
 			<div class="item">
 				<div class="event-item">
-					<a class="event-image" href="assets/images/gallery_slider/gallery6.jpg" data-lightbox="gallery">
+					<a class="event-image" href="assets/images/gallery_slider/gallery8.jpg" data-lightbox="gallery">
 						<img src="assets/images/gallery_slider/gallery8.jpg" alt="">
 					</a>
 				</div>
@@ -437,7 +430,7 @@
 			<!-- item - end -->
 			<div class="item">
 				<div class="event-item">
-					<a class="event-image" href="assets/images/gallery_slider/gallery6.jpg" data-lightbox="gallery">
+					<a class="event-image" href="assets/images/gallery_slider/gallery9.jpg" data-lightbox="gallery">
 						<img src="assets/images/gallery_slider/gallery9.jpg" alt="">
 					</a>
 				</div>
@@ -445,7 +438,7 @@
 			<!-- item - end -->
 			<div class="item">
 				<div class="event-item">
-					<a class="event-image" href="assets/images/gallery_slider/gallery6.jpg" data-lightbox="gallery">
+					<a class="event-image" href="assets/images/gallery_slider/gallery10.jpg" data-lightbox="gallery">
 						<img src="assets/images/gallery_slider/gallery10.jpg" alt="">
 					</a>
 				</div>

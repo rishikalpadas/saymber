@@ -250,7 +250,7 @@ textarea:focus,
 .sticky-header-section .header-bottom .menu-item-list > ul > li > a:before,
 .booking-section .booking-content-wrapper .order-summary-table .table .tfooter,
 .partners-clients-section .partners-wrapper .partners-carousel .item ul li a:before {
-	background: linear-gradient(to bottom right, #ffbe30 , #ff3e00)!important;
+	/* background: linear-gradient(to bottom right, #ffbe30 , #ff3e00)!important; */
 }
 /* gradient bg - end
 ================================================== */
