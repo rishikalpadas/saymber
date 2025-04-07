@@ -103,28 +103,28 @@
 							<div class="menu-item-list ul-li clearfix">
 								<ul>
 									<li class="menu-item-has-children ">
-										<a href="#" style="">home</a>
+										<a href="#">home</a>
 
 									</li>
 									<li class="menu-item-has-children">
-										<a href="#about-section" style="">services</a>
+										<a href="#about-section">services</a>
 
 									</li>
 
 									<li class="menu-item-has-children">
-										<a href='#service-section' style="">about us</a>
+										<a href='#service-section'>about us</a>
 
 									</li>
 									<li class="menu-item-has-children">
-										<a href='#service-section why-us' style="">why us</a>
+										<a href='#service-section why-us'>why us</a>
 
 									</li>
-									<li><a href='#upcomming-event-carousel' style="">gallery</a></li>
-									<li><a href='#testimonial5-section' style="">testimonials</a></li>
+									<li><a href='#upcomming-event-carousel'>gallery</a></li>
+									<li><a href='#testimonial5-section'>testimonials</a></li>
 
 
 									<li class="menu-item-has-children">
-										<a href="#contact-section" style="">contact</a>
+										<a href="#contact-section">contact</a>
 
 									</li>
 								</ul>
@@ -208,7 +208,7 @@
 				<div class="menu-link-list main-pages-links">
 
 					<li style="list-style:none;">
-						<a href="index.php" style="color: white; ">
+						<a href="index.php" style="color: white">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Home
 						</a>
@@ -221,7 +221,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#about-section" style="color: white; ">
+						<a href="#about-section" style="color: white">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Services
 						</a>
@@ -233,7 +233,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#service-section" style="color: white; ">
+						<a href="#service-section" style="color: white">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							About Us
 						</a>
@@ -245,7 +245,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#service-section why-us" style="color: white; ">
+						<a href="#service-section why-us" style="color: white">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Why Us
 						</a>
@@ -257,7 +257,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#upcomming-event-carousel" style="color: white; ">
+						<a href="#upcomming-event-carousel" style="color: white">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Gallery
 						</a>
@@ -269,7 +269,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#testimonial5-section" style="color: white; ">
+						<a href="#testimonial5-section" style="color: white">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Testimonials
 						</a>
@@ -281,7 +281,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#contact-section" style="color: white; ">
+						<a href="#contact-section" style="color: white">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Contact
 						</a>
