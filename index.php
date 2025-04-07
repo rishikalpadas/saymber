@@ -227,7 +227,7 @@
 							</small>
 						</a>
 					</li>
-					<div class="row d-flex justify-content-center">
+					<!-- <div class="row d-flex justify-content-center">
 
 						<li>
 							<a href="#!" class="about-item">
@@ -244,7 +244,7 @@
 								</small>
 							</a>
 						</li>
-					</div>
+					</div> -->
 				</ul>
 			</div>
 		</div>
@@ -428,21 +428,21 @@
 				</div>
 			</div>
 			<!-- item - end -->
-			<div class="item">
+			<!-- <div class="item">
 				<div class="event-item">
 					<a class="event-image" href="assets/images/gallery_slider/gallery9.jpg" data-lightbox="gallery">
 						<img src="assets/images/gallery_slider/gallery9.jpg" alt="">
 					</a>
 				</div>
-			</div>
+			</div> -->
 			<!-- item - end -->
-			<div class="item">
+			<!-- <div class="item">
 				<div class="event-item">
 					<a class="event-image" href="assets/images/gallery_slider/gallery10.jpg" data-lightbox="gallery">
 						<img src="assets/images/gallery_slider/gallery10.jpg" alt="">
 					</a>
 				</div>
-			</div>
+			</div> -->
 			<!-- item - end -->
 
 
@@ -607,7 +607,7 @@
 				<p class="text-center"><b>General Enquiries</b></p>
 				<div class="text-center">
 
-					<a href="mailto:saymber02@gmail.com">saymber02@gmail.com</a>
+					<a href="mailto:info@saymber.org">info@saymber.org</a>
 				</div>
 				<!-- <p class="text-center">saymber02@gmail.com</p> -->
 
@@ -623,8 +623,8 @@
 				<p class="text-center"><b>Call Us</b></p>
 				<div class="text-center">
 
-					<a href="tel:+91-7044074047">+91-7044074047</a><br>
-					<a href="tel:+91-9874712110">+91-9874712110</a>&nbsp;|&nbsp;<a href="tel:033-40630628">033-40630628</a>
+					<a href="tel:+91-9875554523">+91-9875554523</a><br>
+					<a href="tel:+91-9477655331">+91-9477655331</a>
 				</div>
 
 

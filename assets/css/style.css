@@ -8152,3 +8152,14 @@ video {
   height: auto;
   border-radius: 10px;
 }
+
+.style-script-regular {
+  font-family: "Style Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: cursiveFont;
+  src: url(../fonts/Amsterdam.ttf);
+}

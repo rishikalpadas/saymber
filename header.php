@@ -8,7 +8,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 
 	<title>Saymber</title>
-	
+
 	<link rel="shortcut icon" href="./assets/images/favicon.ico" type="image/x-icon">
 
 	<!-- fraimwork - css include -->
@@ -42,6 +42,10 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
 	<!-- Lightbox2 CSS -->
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Style+Script&display=swap" rel="stylesheet">
 
 
 
@@ -80,7 +84,7 @@
 		<!-- header-bottom - start -->
 		<div class="header-bottom">
 			<div class="container">
-				<div class="row">
+				<div class="row d-flex align-items-center">
 
 					<!-- site-logo-wrapper - start -->
 					<div class="col-lg-2">
@@ -93,34 +97,34 @@
 					<!-- site-logo-wrapper - end -->
 
 					<!-- mainmenu-wrapper - start -->
-					<div class="col-lg-10 d-flex align-items-center justify-content-center">
+					<div class="col-lg-8 d-flex align-items-center justify-content-center">
 						<!-- <div class="mainmenu-wrapper"> -->
 						<div class="row">
 							<div class="menu-item-list ul-li clearfix">
 								<ul>
 									<li class="menu-item-has-children ">
-										<a href="#">home</a>
+										<a href="#" style="font-family: Style Script">home</a>
 
 									</li>
 									<li class="menu-item-has-children">
-										<a href="#about-section">services</a>
+										<a href="#about-section" style="font-family: Style Script">services</a>
 
 									</li>
 
 									<li class="menu-item-has-children">
-										<a href='#service-section'>about us</a>
+										<a href='#service-section' style="font-family: Style Script">about us</a>
 
 									</li>
 									<li class="menu-item-has-children">
-										<a href='#service-section why-us'>why us</a>
+										<a href='#service-section why-us' style="font-family: Style Script">why us</a>
 
 									</li>
-									<li><a href='#upcomming-event-carousel'>gallery</a></li>
-									<li><a href='#testimonial5-section'>testimonials</a></li>
+									<li><a href='#upcomming-event-carousel' style="font-family: Style Script">gallery</a></li>
+									<li><a href='#testimonial5-section' style="font-family: Style Script">testimonials</a></li>
 
 
 									<li class="menu-item-has-children">
-										<a href="#contact-section">contact</a>
+										<a href="#contact-section" style="font-family: Style Script">contact</a>
 
 									</li>
 								</ul>
@@ -138,6 +142,16 @@
 					</div>
 					<!-- mainmenu-wrapper - end -->
 
+					<!-- site-logo-wrapper - start -->
+					<div class="col-lg-2">
+						<div class="site-logo-wrapper">
+							<a href="#" class="logo">
+								<img src="assets/images/fflogo.png" alt="Flavor Fusion Logo">
+							</a>
+						</div>
+					</div>
+					<!-- site-logo-wrapper - end -->
+
 				</div>
 			</div>
 		</div>
@@ -154,11 +168,12 @@
 		================================================== -->
 	<div class="header-altranative">
 		<div class="container" style="display: flex; justify-content: space-between; align-items: center;">
-			<div class="logo-area float-left">
+			<div class="logo-area d-flex align-items-center justify-content-center">
 				<a href="index.php">
 					<img src="assets/images/logo_transparent.png" alt="Saymber logo" style="width: 80px">
 
 				</a>
+				<img src="assets/images/fflogo.png" alt="Saymber logo" style="width: 90px">
 			</div>
 
 			<button type="button" id="sidebarCollapse" class="alt-menu-btn float-right">
@@ -174,10 +189,17 @@
 				</span>
 
 				<div class="sidebar-header">
-					<a href="index.php">
+					<div class="row">
+						<div class="col-6">
+							<a href="index.php">
 
-						<img src="assets/images/logo_transparent.png" alt="Saymber logo">
-					</a>
+								<img src="assets/images/logo_transparent.png" alt="Saymber logo">
+							</a>
+						</div>
+						<div class="col-6 d-flex"><img src="assets/images/fflogo.png" alt="Saymber logo"></div>
+					</div>
+
+
 				</div>
 
 
@@ -186,7 +208,7 @@
 				<div class="menu-link-list main-pages-links">
 
 					<li style="list-style:none;">
-						<a href="index.php" style="color: white">
+						<a href="index.php" style="color: white; font-family: Style Script">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Home
 						</a>
@@ -199,7 +221,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#about-section" style="color: white">
+						<a href="#about-section" style="color: white; font-family: Style Script">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Services
 						</a>
@@ -211,7 +233,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#service-section" style="color: white">
+						<a href="#service-section" style="color: white; font-family: Style Script">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							About Us
 						</a>
@@ -223,7 +245,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#service-section why-us" style="color: white">
+						<a href="#service-section why-us" style="color: white; font-family: Style Script">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Why Us
 						</a>
@@ -235,7 +257,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#upcomming-event-carousel" style="color: white">
+						<a href="#upcomming-event-carousel" style="color: white; font-family: Style Script">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Gallery
 						</a>
@@ -247,7 +269,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#testimonial5-section" style="color: white">
+						<a href="#testimonial5-section" style="color: white; font-family: Style Script">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Testimonials
 						</a>
@@ -259,7 +281,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#contact-section" style="color: white">
+						<a href="#contact-section" style="color: white; font-family: Style Script">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Contact
 						</a>

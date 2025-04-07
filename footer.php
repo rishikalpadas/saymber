@@ -33,11 +33,15 @@
 										</li>
 										<li>
 											<i class="fas fa-envelope"></i>
-											<a href="mailto:saymber02@gmail.com">saymber02@gmail.com</a>
+											<a href="mailto:info@saymber.org">info@saymber.org</a>
 										</li>
 										<li>
 											<i class="fas fa-phone"></i>
-											<a href="+91-7044074047">+91-7044074047</a>
+											<a href="+91-9875554523">+91-9875554523</a>
+										</li>
+										<li>
+											<i class="fas fa-phone"></i>
+											<a href="+91-9477655331">+91-9477655331</a>
 										</li>
 									</ul>
 								</div>
@@ -73,11 +77,13 @@
 								<!-- social-links - start -->
 								<div class="social-links ul-li">
 									<h3 class="footer-item-title mt-3" style="padding: 0px 30px">follow us</h3>
-									<ul style="padding: 0px 30px">
-										<li>
-											<a href="#!"><i class="fab fa-facebook-f"></i></a>
-										</li>
-										<!-- <li>
+									<div class="d-flex justify-content-between">
+										<p style="padding: 0px 30px; color: white"><b>Saymber Links: </b></p>
+										<ul style="padding: 0px 30px">
+											<li>
+												<a href="https://www.facebook.com/saymbe" target="_blank"><i class="fab fa-facebook-f"></i></a>
+											</li>
+											<!-- <li>
 											<a href="#!"><i class="fab fa-twitter"></i></a>
 										</li>
 										<li>
@@ -86,10 +92,32 @@
 										<li>
 											<a href="#!"><i class="fab fa-google-plus-g"></i></a>
 										</li> -->
-										<li>
-											<a href="#!"><i class="fab fa-instagram"></i></a>
+											<li>
+												<a href="https://www.instagram.com/saymber_events?igsh=ZzEwMTR0cGoyZHZ0" target="_blank"><i class="fab fa-instagram"></i></a>
+											</li>
+										</ul>
+									</div>
+									<div class="d-flex justify-content-between">
+										<p style="padding: 0px 30px; color: white"><b>Flavor Fusion Links: </b></p>
+										<ul style="padding: 0px 30px">
+											<li>
+												<a href="https://www.facebook.com/profile.php?id=61568512478738" target="_blank"><i class="fab fa-facebook-f"></i></a>
+											</li>
+											<!-- <li>
+											<a href="#!"><i class="fab fa-twitter"></i></a>
 										</li>
-									</ul>
+										<li>
+											<a href="#!"><i class="fab fa-twitch"></i></a>
+										</li>
+										<li>
+											<a href="#!"><i class="fab fa-google-plus-g"></i></a>
+										</li> -->
+											<li>
+												<a href="https://www.instagram.com/flavorfusion_catering_services?igsh=MW0wMGZoMXd5NGczdg==" target="_blank"><i class="fab fa-instagram"></i></a>
+											</li>
+										</ul>
+									</div>
+
 								</div>
 								<!-- social-links - end -->
 							</div>
@@ -144,9 +172,9 @@
 								</ul>
 								<h4 class="followus-link">
 									Powered by <a href="https://crtedge.com/" target="_blank">Createdge</a>
-									
+
 								</h4>
-								
+
 							</div>
 						</div>
 						<!-- instagram-wrapper - end -->
@@ -222,7 +250,7 @@
 			});
 		</script>
 
-		
+
 
 
 
