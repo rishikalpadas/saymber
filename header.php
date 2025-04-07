@@ -103,28 +103,28 @@
 							<div class="menu-item-list ul-li clearfix">
 								<ul>
 									<li class="menu-item-has-children ">
-										<a href="#" style="font-family: Style Script">home</a>
+										<a href="#" style="">home</a>
 
 									</li>
 									<li class="menu-item-has-children">
-										<a href="#about-section" style="font-family: Style Script">services</a>
+										<a href="#about-section" style="">services</a>
 
 									</li>
 
 									<li class="menu-item-has-children">
-										<a href='#service-section' style="font-family: Style Script">about us</a>
+										<a href='#service-section' style="">about us</a>
 
 									</li>
 									<li class="menu-item-has-children">
-										<a href='#service-section why-us' style="font-family: Style Script">why us</a>
+										<a href='#service-section why-us' style="">why us</a>
 
 									</li>
-									<li><a href='#upcomming-event-carousel' style="font-family: Style Script">gallery</a></li>
-									<li><a href='#testimonial5-section' style="font-family: Style Script">testimonials</a></li>
+									<li><a href='#upcomming-event-carousel' style="">gallery</a></li>
+									<li><a href='#testimonial5-section' style="">testimonials</a></li>
 
 
 									<li class="menu-item-has-children">
-										<a href="#contact-section" style="font-family: Style Script">contact</a>
+										<a href="#contact-section" style="">contact</a>
 
 									</li>
 								</ul>
@@ -146,7 +146,7 @@
 					<div class="col-lg-2">
 						<div class="site-logo-wrapper">
 							<a href="#" class="logo">
-								<img src="assets/images/fflogo.png" alt="Flavor Fusion Logo">
+								<img src="assets/images/fflogo.png" alt="Flavor Fusion Logo" style="height: 170px; width: auto">
 							</a>
 						</div>
 					</div>
@@ -196,7 +196,7 @@
 								<img src="assets/images/logo_transparent.png" alt="Saymber logo">
 							</a>
 						</div>
-						<div class="col-6 d-flex"><img src="assets/images/fflogo.png" alt="Saymber logo"></div>
+						<div class="col-6 d-flex"><img src="assets/images/fflogo.png" alt="Flavor Fusion logo"></div>
 					</div>
 
 
@@ -208,7 +208,7 @@
 				<div class="menu-link-list main-pages-links">
 
 					<li style="list-style:none;">
-						<a href="index.php" style="color: white; font-family: Style Script">
+						<a href="index.php" style="color: white; ">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Home
 						</a>
@@ -221,7 +221,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#about-section" style="color: white; font-family: Style Script">
+						<a href="#about-section" style="color: white; ">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Services
 						</a>
@@ -233,7 +233,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#service-section" style="color: white; font-family: Style Script">
+						<a href="#service-section" style="color: white; ">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							About Us
 						</a>
@@ -245,7 +245,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#service-section why-us" style="color: white; font-family: Style Script">
+						<a href="#service-section why-us" style="color: white; ">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Why Us
 						</a>
@@ -257,7 +257,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#upcomming-event-carousel" style="color: white; font-family: Style Script">
+						<a href="#upcomming-event-carousel" style="color: white; ">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Gallery
 						</a>
@@ -269,7 +269,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#testimonial5-section" style="color: white; font-family: Style Script">
+						<a href="#testimonial5-section" style="color: white; ">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Testimonials
 						</a>
@@ -281,7 +281,7 @@
 				<div class="menu-link-list other-pages-links">
 
 					<li style="list-style:none;">
-						<a href="#contact-section" style="color: white; font-family: Style Script">
+						<a href="#contact-section" style="color: white; ">
 							<!-- <span class="icon"><i class="fas fa-home"></i></span> -->
 							Contact
 						</a>
